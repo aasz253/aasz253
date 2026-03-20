@@ -1,6 +1,6 @@
 ## Hi there 👋
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+World!;I+love+coding." alt="Typing SVG" /></a>
-<!--
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+World!;I+love+coding." alt="Typing SVG" /></a>
 **aasz253/aasz253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -67,29 +67,29 @@ Here are some ideas to get you started:
   <div style="animation: glow 3s infinite; background: #1a1a1a; padding: 25px; border-radius: 20px; max-width: 500px; margin: 0 auto; border: 2px solid #00ff00;">
     <h3 style="color: #00ff00; margin-top: 0;">📬 CONTACT ME:</h3>
     
-    <div style="display: flex; flex-direction: column; gap: 15px; text-align: left;">
+  <div style="display: flex; flex-direction: column; gap: 15px; text-align: left;">
       
-      <div style="background: #333; padding: 10px; border-radius: 10px; animation: slideIn 0.5s;">
+  <div style="background: #333; padding: 10px; border-radius: 10px; animation: slideIn 0.5s;">
         <strong style="color: #ff6b6b;">📧 Email:</strong>
         <a href="mailto:www.antonysifuna07@gmail.com" style="color: #4ecdc4; text-decoration: none; margin-left: 10px;">www.antonysifuna07@gmail.com</a>
       </div>
 
-      <div style="background: #333; padding: 10px; border-radius: 10px; animation: slideIn 0.7s;">
+  <div style="background: #333; padding: 10px; border-radius: 10px; animation: slideIn 0.7s;">
         <strong style="color: #ff6b6b;">📞 Phone:</strong>
         <a href="tel:+254792325646" style="color: #4ecdc4; text-decoration: none; margin-left: 10px;">0792325646</a>
       </div>
 
-      <div style="background: #333; padding: 10px; border-radius: 10px; animation: slideIn 0.9s;">
+  <div style="background: #333; padding: 10px; border-radius: 10px; animation: slideIn 0.9s;">
         <strong style="color: #ff6b6b;">🌍 Portfolio:</strong>
         <a href="https://sifunacodexprofesionalpotfolio.netlify.app/" style="color: #4ecdc4; text-decoration: none; margin-left: 10px;">sifunacodexprofesionalpotfolio.netlify.app</a>
       </div>
 
-      <div style="background: #333; padding: 10px; border-radius: 10px; animation: slideIn 1.1s;">
+  <div style="background: #333; padding: 10px; border-radius: 10px; animation: slideIn 1.1s;">
         <strong style="color: #ff6b6b;">🐙 GitHub:</strong>
         <a href="https://github.com/aasz253" style="color: #4ecdc4; text-decoration: none; margin-left: 10px;">github.com/aasz253</a>
       </div>
 
-      <div style="background: #333; padding: 10px; border-radius: 10px; animation: slideIn 1.3s;">
+  <div style="background: #333; padding: 10px; border-radius: 10px; animation: slideIn 1.3s;">
         <strong style="color: #ff6b6b;">🔗 LinkedIn:</strong>
         <a href="https://www.linkedin.com/in/sifuna-codex-3238203b4/" style="color: #4ecdc4; text-decoration: none; margin-left: 10px;">Sifuna Codex</a>
       </div>
