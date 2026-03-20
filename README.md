@@ -1,7 +1,7 @@
 ## Hi there 👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+World!;I+love+coding;I+build+softwares+daily." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+World!;I+love+coding;I+build+softwares+daily." alt="Typing SVG" / ></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=SIFUNA%2C+CODEX!;I+love+HACKING." alt="Typing SVG" /></a>
+<a style="color:red" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=SIFUNA%2C+CODEX!;I+love+HACKING." alt="Typing SVG" /></a>
 
 
 ## 😄 About Me
