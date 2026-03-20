@@ -2,22 +2,30 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+World!;I+love+coding." alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+World!;I+love+coding." alt="Typing SVG" /></a>
-**aasz253/aasz253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😄 About Me
+
+- **Name:** Antony Sifuna  
+- **Pronouns:** He / Him  
+- **Role:** Aspiring Full-Stack Developer & AI Enthusiast  
+- **Location:** Nairobi, Kenya  
+- **Fun Fact ⚡:** I build mini projects almost every week and love turning ideas into code!  
+- **Current Focus 💻:** Web Development, Cybersecurity, AI/ML, Cloud Computing  
+- **Hobbies 🎵:** DJ Anthoya2Z – I mix music when I’m not coding  
+- **Motto ✨:** "Code smart, dream big, and never stop learning!"  
+
+- 🔭 I’m currently working on AI AND CYBER SECSECURITY 🔐 
+- 🌱 I’m currently learning SYSTERM DESIGN AND DATA STRUCTURE AND ALGORITHN
+- 👯 I’m looking to collaborate on ON DEVELOPING SOFTWARES TO SOLVE REAL WORLD PROBLEMS
+- 🤔 I’m looking for help with JOP OPPOTUNITIES🤲
+- 💬 Ask me about TECH STACK QUERIES 
+- 📫 How to reach me: 0792325646 OR FIND MY CONTACTS 👇 
+
 <!-- FILE: README.md -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ANTHONY+Simiyu!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ANTHONY+Simiyu!;
+    +A Computer Science Degree Holder";+ Naturaly 🖥;+  />
 </h1>
 
 <h3 align="center">A fun-loving code wizard from Kenya 🧙‍♂️✨</h3>
@@ -108,6 +116,9 @@ Here are some ideas to get you started:
     👨‍💻 🚀 ✨ 🎉 💻
   </p>
 </div>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aasz253.mini-projects-one-week)
+![GitHub Followers](https://img.shields.io/github/followers/aasz253?label=Follow&style=social)
 
 <!-- STATS SECTION WITH LIVE GRAPHS -->
 <h2 align="center">📊 GITHUB STATS (they move!) 📊</h2>
