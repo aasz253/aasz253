@@ -8,7 +8,7 @@
 
 # 👨‍💻 Anthony Sifuna | SifunaCodex
 
-🚀 Full-Stack Developer(web & app) | AI Enthusiast | Cybersecurity Master  
+🚀 Full-Stack Developer(web & app) | AI Pro Enthusiast | Cybersecurity Master  
 🌍 Building real-world solutions with code
 
 ---
