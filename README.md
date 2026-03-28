@@ -6,6 +6,53 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=SIFUNA%2C+CODEX!;I+love+HACKING." alt="Typing SVG" /></a>
 
+# 👨‍💻 Anthony Sifuna | SifunaCodex
+
+🚀 Full-Stack Developer | AI Enthusiast | Cybersecurity Learner  
+🌍 Building real-world solutions with code
+
+---
+
+# 🧠 Artificial Intelligence (AI)
+![Python](https://img.shields.io/badge/Python-AI-blue?style=for-the-badge&logo=python)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT-black?style=for-the-badge&logo=openai)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-AI-orange?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-AI-red?style=for-the-badge&logo=pytorch)
+
+---
+
+# 🤖 Machine Learning (ML)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-Data-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-ML-blue?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green?style=for-the-badge&logo=plotly)
+
+---
+
+# 🔐 Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Security-blue?style=for-the-badge&logo=kalilinux)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-darkblue?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network-lightblue?style=for-the-badge&logo=wireshark)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_Testing-orange?style=for-the-badge)
+
+---
+
+# ☁️ Cloud Computing
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-GCP-blue?style=for-the-badge&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker)
+
+---
+
+# 💻 Software Engineering
+![JavaScript](https://img.shields.io/badge/JavaScript-Code-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
+![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue?style=for-the-badge&logo=flutter)
+![C++](https://img.shields.io/badge/C++-OOP-blue?style=for-the-badge&logo=cplusplus)
+
+---
 
 ## 😄 About Me
 
@@ -119,6 +166,11 @@
     👨‍💻 🚀 ✨ 🎉 💻
   </p>
 </div>
+
+
+
+
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aasz253.mini-projects-one-week)
 ![GitHub Followers](https://img.shields.io/github/followers/aasz253?label=Follow&style=social)
