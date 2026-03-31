@@ -211,51 +211,6 @@
   ⚡
 </p>
 
-<!-- CUSTOM CSS FOR ALL ANIMATIONS -->
-<style>
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-20px); }
-  }
-  
-  @keyframes glow {
-    0% { box-shadow: 0 0 5px #00ff00; }
-    50% { box-shadow: 0 0 20px #00ff00, 0 0 30px #00ff00; }
-    100% { box-shadow: 0 0 5px #00ff00; }
-  }
-  
-  @keyframes slideIn {
-    from { transform: translateX(-100%); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
-  }
-  
-  @keyframes dance {
-    0%, 100% { transform: rotate(0deg); }
-    25% { transform: rotate(10deg); }
-    75% { transform: rotate(-10deg); }
-  }
-  
-  @keyframes spin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-  
-  /* Make everything a little more fun */
-  body {
-    background: linear-gradient(45deg, #0a0a0a, #1a1a2e);
-    color: white;
-  }
-  
-  a:hover {
-    transform: scale(1.1);
-    transition: 0.3s;
-    filter: brightness(1.2);
-  }
-  
-  div {
-    transition: all 0.3s ease;
-  }
-</style>
 
 ---
 
