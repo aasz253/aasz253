@@ -1,8 +1,43 @@
 
+<div align="center">
+  
+<!-- 3D Rotating Badge -->
+<img src="https://render.gitanimals.org/badges/aasz253?type=achievement&value=AI+Master&style=for-the-badge&color=FFD700"/>
+
+<!-- Live updating badge with animation -->
+<img src="https://img.shields.io/badge/dynamic/json?color=FFD700&label=🏆%20AI%20ENGINEER%20RANK&query=rank&url=https://api.github.com/users/aasz253&style=for-the-badge&logo=ai&logoColor=white"/>
+
+</div>
+
+<div align="center">
+  
+ascii
+█████╗ ███╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗██╗   ██╗
+██╔══██╗████╗  ██║╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║╚██╗ ██╔╝
+███████║██╔██╗ ██║   ██║   ███████║██║   ██║██╔██╗ ██║ ╚████╔╝ 
+██╔══██║██║╚██╗██║   ██║   ██╔══██║██║   ██║██║╚██╗██║  ╚██╔╝  
+██║  ██║██║ ╚████║   ██║   ██║  ██║╚██████╔╝██║ ╚████║   ██║   
+╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   
+</div>
 
 <a href="https://readme-typing-svg.demolab.com" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+World!;I+love+coding;I+build+softwares+daily." alt="Typing SVG" />
 </a>
+
+<div align="center">
+  
+<!-- 3D Rotating Badge -->
+<img src="https://render.gitanimals.org/badges/aasz253?type=achievement&value=AI+Master&style=for-the-badge&color=FFD700"/>
+
+<!-- Live updating badge with animation -->
+<img src="https://img.shields.io/badge/dynamic/json?color=FFD700&label=🏆%20AI%20ENGINEER%20RANK&query=rank&url=https://api.github.com/users/aasz253&style=for-the-badge&logo=ai&logoColor=white"/>
+
+</div>
+
+
+
+
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=SIFUNA%2C+CODEX!;I+love+HACKING." alt="Typing SVG" /></a>
 
@@ -169,7 +204,33 @@
   </p>
 </div>
 
+<div align="center">
+  
+<!-- Animated Gradient Badge using SVG -->
+<svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF0080">
+        <animate attributeName="stop-color" values="#FF0080;#FF8C00;#FF0080" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#FF8C00">
+        <animate attributeName="stop-color" values="#FF8C00;#FF0080;#FF8C00" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FF0080">
+        <animate attributeName="stop-color" values="#FF0080;#FF8C00;#FF0080" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" rx="15" ry="15" width="580" height="60" fill="url(#grad)">
+    <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="300" y="50" text-anchor="middle" fill="white" font-size="24" font-family="Arial, sans-serif" font-weight="bold">
+    🏆 THE BEST AI ENGINEER IN EVERY TECH 🏆
+    <animate attributeName="opacity" values="1;0.7;1" dur="1.5s" repeatCount="indefinite"/>
+  </text>
+</svg>
 
+</div>
 
 
 
@@ -212,6 +273,12 @@
 <p align="center" style="animation: spin 4s linear infinite; display: inline-block;">
   ⚡
 </p>
+
+
+
+
+
+
 
 
 ---
