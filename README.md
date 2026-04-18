@@ -11,7 +11,7 @@
 
 <div align="center">
   
-ascii
+
 █████╗ ███╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗██╗   ██╗
 ██╔══██╗████╗  ██║╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║╚██╗ ██╔╝
 ███████║██╔██╗ ██║   ██║   ███████║██║   ██║██╔██╗ ██║ ╚████╔╝ 
@@ -118,7 +118,7 @@ ascii
 <h3 align="center">A fun-loving code wizard from Kenya 🧙‍♂️✨</h3>
 
 <p align="center">
-  <a href="https://sifunacodexprofesionalpotfolio.netlify.app/">
+  <a href="https://sifuna-codex-tech.netlify.app/)">
     <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://github.com/aasz253">
