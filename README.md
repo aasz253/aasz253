@@ -1,295 +1,228 @@
-
-<div align="center">
-  
-<!-- 3D Rotating Badge -->
-<img src="https://render.gitanimals.org/badges/aasz253?type=achievement&value=AI+Master&style=for-the-badge&color=FFD700"/>
-
-<!-- Live updating badge with animation -->
-<img src="https://img.shields.io/badge/dynamic/json?color=FFD700&label=🏆%20AI%20ENGINEER%20RANK&query=rank&url=https://api.github.com/users/aasz253&style=for-the-badge&logo=ai&logoColor=white"/>
-
-</div>
-
-<div align="center">
-  
-
-█████╗ ███╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗██╗   ██╗
-██╔══██╗████╗  ██║╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║╚██╗ ██╔╝
-███████║██╔██╗ ██║   ██║   ███████║██║   ██║██╔██╗ ██║ ╚████╔╝ 
-██╔══██║██║╚██╗██║   ██║   ██╔══██║██║   ██║██║╚██╗██║  ╚██╔╝  
-██║  ██║██║ ╚████║   ██║   ██║  ██║╚██████╔╝██║ ╚████║   ██║   
-╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   
-</div>
-
-<a href="https://readme-typing-svg.demolab.com" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+World!;I+love+coding;I+build+softwares+daily." alt="Typing SVG" />
-</a>
-
-<div align="center">
-  
-<!-- 3D Rotating Badge -->
-<img src="https://render.gitanimals.org/badges/aasz253?type=achievement&value=AI+Master&style=for-the-badge&color=FFD700"/>
-
-<!-- Live updating badge with animation -->
-<img src="https://img.shields.io/badge/dynamic/json?color=FFD700&label=🏆%20AI%20ENGINEER%20RANK&query=rank&url=https://api.github.com/users/aasz253&style=for-the-badge&logo=ai&logoColor=white"/>
-
-</div>
-
-
-
-
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=SIFUNA%2C+CODEX!;I+love+HACKING." alt="Typing SVG" /></a>
-
-# 👨‍💻 Anthony Sifuna | SifunaCodex
-
-🚀 Full-Stack Developer(web & app) | AI Pro Enthusiast | Cybersecurity Master  
-🌍 Building real-world solutions with code
-
----
-
-# 🧠 Artificial Intelligence (AI)
-![Python](https://img.shields.io/badge/Python-AI-blue?style=for-the-badge&logo=python)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT-black?style=for-the-badge&logo=openai)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-AI-orange?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-AI-red?style=for-the-badge&logo=pytorch)
-
----
-
-# 🤖 Machine Learning (ML)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-Data-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-ML-blue?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green?style=for-the-badge&logo=plotly)
-
----
-
-# 🔐 Cybersecurity
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Security-blue?style=for-the-badge&logo=kalilinux)
-![Metasploit](https://img.shields.io/badge/Metasploit-Framework-darkblue?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network-lightblue?style=for-the-badge&logo=wireshark)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_Testing-orange?style=for-the-badge)
-
----
-
-# ☁️ Cloud Computing
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-GCP-blue?style=for-the-badge&logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker)
-
----
-
-# 💻 Software Engineering
-![JavaScript](https://img.shields.io/badge/JavaScript-Code-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
-![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue?style=for-the-badge&logo=flutter)
-![C++](https://img.shields.io/badge/C++-OOP-blue?style=for-the-badge&logo=cplusplus)
-
----
-
- <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
-
-## 😄 About Me
-
-- **Name:** Antony Sifuna  
-- **Pronouns:** He / Him  
-- **Role:** Aspiring Full-Stack Developer & AI Enthusiast  
-- **Location:** Nairobi, Kenya  
-- **Fun Fact ⚡:** I build mini projects almost every week and love turning ideas into code!  
-- **Current Focus 💻:** Web Development, Cybersecurity, AI/ML, Cloud Computing  
-- **Hobbies 🎵:** DJ Anthoya2Z – I mix music when I’m not coding  
-- **Motto ✨:** "Code smart, dream big, and never stop learning!"  
-
-- 🔭 I’m currently working on AI AND CYBER SECSECURITY 🔐 
-- 🌱 I’m currently learning SYSTERM DESIGN AND DATA STRUCTURE AND ALGORITHN
-- 👯 I’m looking to collaborate on ON DEVELOPING SOFTWARES TO SOLVE REAL WORLD PROBLEMS
-- 🤔 I’m looking for help with JOP OPPOTUNITIES🤲
-- 💬 Ask me about TECH STACK QUERIES 
-- 📫 How to reach me: 0792325646 OR FIND MY CONTACTS 👇 
-
-<!-- FILE: README.md -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ANTHONY+Simiyu!;
-    +A Computer Science Degree Holder";+ Naturaly 🖥;+  />
+Hi 👋, I'm Antony Sifuna
 </h1>
 
-<h3 align="center">A fun-loving code wizard from Kenya 🧙‍♂️✨</h3>
+<h3 align="center">
+Full-Stack Developer • AI Engineer • Cybersecurity Enthusiast 🇰🇪
+</h3>
 
 <p align="center">
-  <a href="https://sifuna-codex-tech.netlify.app/)">
-    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://github.com/aasz253">
-    <img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sifuna-codex-3238203b4/">
-    <img src="https://img.shields.io/badge/🔗%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:www.antonysifuna07@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:+254792325646">
-    <img src="https://img.shields.io/badge/📞%20CALL%20ME-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-<!-- ANIMATED SNAKE: This makes a fun snake eat your contribution grid -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Full-Stack+Developer;Cybersecurity+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-<!-- MAIN CARD WITH ANIMATIONS -->
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50px">
-  <br><br>
+## 🚀 About Me
 
-  <!-- BOUNCING NAME CARD -->
-  <div style="animation: bounce 2s infinite; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; display: inline-block; margin: 20px;">
-    <h2 style="color: white; margin: 0;">⚡ ANTHONY Simiyu ⚡</h2>
-    <p style="color: #ffd700; margin: 5px 0 0;">@aasz253</p>
-  </div>
+- 🔭 Building secure AI-powered web applications
+- 🌱 Learning System Design, DevOps and Cloud Computing
+- 💻 Passionate about Next.js, React, Node.js and AI
+- 🔐 Interested in Ethical Hacking & Cybersecurity
+- 🤝 Looking to collaborate on impactful open-source projects
+- ⚡ I enjoy solving real-world problems through software
 
-  <br><br>
+---
 
-  <!-- CONTACT CARD WITH GLOW EFFECT -->
-  <div style="animation: glow 3s infinite; background: #1a1a1a; padding: 25px; border-radius: 20px; max-width: 500px; margin: 0 auto; border: 2px solid #00ff00;">
-    <h3 style="color: #00ff00; margin-top: 0;">📬 CONTACT ME:</h3>
-    
-  <div style="display: flex; flex-direction: column; gap: 15px; text-align: left;">
-      
-  <div style="background: #333; padding: 10px; border-radius: 10px; animation: slideIn 0.5s;">
-        <strong style="color: #ff6b6b;">📧 Email:</strong>
-        <a href="mailto:www.antonysifuna07@gmail.com" style="color: #4ecdc4; text-decoration: none; margin-left: 10px;">www.antonysifuna07@gmail.com</a>
-      </div>
+## 💻 Tech Stack
 
-  <div style="background: #333; padding: 10px; border-radius: 10px; animation: slideIn 0.7s;">
-        <strong style="color: #ff6b6b;">📞 Phone:</strong>
-        <a href="tel:+254792325646" style="color: #4ecdc4; text-decoration: none; margin-left: 10px;">0792325646</a>
-      </div>
+### Frontend
 
-  <div style="background: #333; padding: 10px; border-radius: 10px; animation: slideIn 0.9s;">
-        <strong style="color: #ff6b6b;">🌍 Portfolio:</strong>
-        <a href="https://sifunacodexprofesionalpotfolio.netlify.app/" style="color: #4ecdc4; text-decoration: none; margin-left: 10px;">sifunacodexprofesionalpotfolio.netlify.app</a>
-      </div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
-  <div style="background: #333; padding: 10px; border-radius: 10px; animation: slideIn 1.1s;">
-        <strong style="color: #ff6b6b;">🐙 GitHub:</strong>
-        <a href="https://github.com/aasz253" style="color: #4ecdc4; text-decoration: none; margin-left: 10px;">github.com/aasz253</a>
-      </div>
+### Backend
 
-  <div style="background: #333; padding: 10px; border-radius: 10px; animation: slideIn 1.3s;">
-        <strong style="color: #ff6b6b;">🔗 LinkedIn:</strong>
-        <a href="https://www.linkedin.com/in/sifuna-codex-3238203b4/" style="color: #4ecdc4; text-decoration: none; margin-left: 10px;">Sifuna Codex</a>
-      </div>
-    </div>
-  </div>
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
-  <br>
+### AI & Security
 
-  <!-- FUNNY MOVING TEXT -->
-  <marquee behavior="alternate" direction="right" scrollamount="10" style="color: #ff6b6b; font-size: 20px; margin: 20px 0;">
-    ⚡ Available for freelance work! ⚡ Let's build something amazing! ⚡
-  </marquee>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-  <!-- DANCING EMOJIS -->
-  <p style="font-size: 30px; animation: dance 1s infinite;">
-    👨‍💻 🚀 ✨ 🎉 💻
-  </p>
-</div>
+---
 
-<div align="center">
-  
-<!-- Animated Gradient Badge using SVG -->
-<svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF0080">
-        <animate attributeName="stop-color" values="#FF0080;#FF8C00;#FF0080" dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#FF8C00">
-        <animate attributeName="stop-color" values="#FF8C00;#FF0080;#FF8C00" dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#FF0080">
-        <animate attributeName="stop-color" values="#FF0080;#FF8C00;#FF0080" dur="3s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect x="10" y="10" rx="15" ry="15" width="580" height="60" fill="url(#grad)">
-    <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite"/>
-  </rect>
-  <text x="300" y="50" text-anchor="middle" fill="white" font-size="24" font-family="Arial, sans-serif" font-weight="bold">
-    🏆 THE BEST AI ENGINEER IN EVERY TECH 🏆
-    <animate attributeName="opacity" values="1;0.7;1" dur="1.5s" repeatCount="indefinite"/>
-  </text>
-</svg>
+## 🚀 Featured Projects
 
-</div>
+🔹 AI Secure Online Examination System
 
+🔹 Phish Detect
 
+🔹 Lumino Nursing & Maternity Platform
 
+🔹 Nelcity Technologies Website
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aasz253.mini-projects-one-week)
-![GitHub Followers](https://img.shields.io/github/followers/aasz253?label=Follow&style=social)
+🔹 MyAI Assistant
 
-<!-- STATS SECTION WITH LIVE GRAPHS -->
-<h2 align="center">📊 GITHUB STATS (they move!) 📊</h2>
+---
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aasz253&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aasz253&theme=radical&hide_border=true" />
-</div>
+## 📈 GitHub Statistics
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasz253&layout=compact&theme=radical&hide_border=true" width="45%" />
-</div>
-
-<!-- ANIMATED ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aasz253&theme=react-dark&bg_color=20232a&hide_border=true" width="95%"/>
-</div>
-
-<!-- MOVING VISITOR COUNTER -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/aasz253/count.svg" alt="visitor counter" />
-  <br>
-  <b>👀 people are checking me out!</b>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aasz253&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aasz253&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- RANDOM FUNNY QUOTE -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasz253&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- SPINNING WHEEL ANIMATION -->
-<p align="center" style="animation: spin 4s linear infinite; display: inline-block;">
-  ⚡
+---
+
+## 🏆 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aasz253&theme=tokyo-night&hide_border=true"/>
 </p>
 
+---
 
+## 📫 Connect With Me
 
+🌐 Portfolio:
+https://sifunacodexpro.netlify.app
 
+💼 LinkedIn:
+https://www.linkedin.com/in/sifuna-codex-3238203b4
 
-
-
+📧 Email:
+antonysifuna07@gmail.com
 
 ---
 
 <p align="center">
-  <b>⭐ Check out my repos below! They're full of magic! ⭐</b>
+
+"Building software that makes life better."
+
+⭐ Thanks for visiting my profile!
+
 </p>
 
-<!-- WAVING GOODBYE ANIMATION -->
+---
+
+# 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
-  <b>Thanks for visiting!</b>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+  <img src="https://github-profile-trophy.vercel.app/?username=aasz253&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+# 📊 Coding Statistics
+
+<!--START_SECTION:waka-->
+```text
+No activity tracked yet.
+```
+<!--END_SECTION:waka-->
+
+> **Setup:** Connect your WakaTime account and enable the GitHub Readme action to update this section automatically.
+
+---
+
+# 📅 Weekly Development Breakdown
+
+<!--START_SECTION:activity-->
+```text
+Monday      ███████░░░░░░░░░░░░
+Tuesday     ██████████░░░░░░░░░
+Wednesday   ████████░░░░░░░░░░░
+Thursday    ███████████░░░░░░░░
+Friday      ██████████████░░░░░
+Saturday    ██████░░░░░░░░░░░░░
+Sunday      ███░░░░░░░░░░░░░░░░
+```
+<!--END_SECTION:activity-->
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Secure a Software Engineering Internship
+- 🚀 Launch Sifuna Codex Technologies
+- 🤖 Build AI-powered SaaS applications
+- 🔐 Earn cybersecurity certifications
+- ☁️ Master Cloud & DevOps
+- 🌍 Contribute to Open Source
+- 📱 Publish production-ready mobile apps
+- 💼 Work with international clients
+
+---
+
+# 🌍 Open for Opportunities
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20for-Internships-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20for-Freelance-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20for-Remote%20Work-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/aasz253/aasz253/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+> **Note:** This requires a GitHub Action to generate the snake automatically.
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aasz253&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+# ☕ Support My Work
+
+<p align="center">
+
+<a href="https://buymeacoffee.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+
+</a>
+
+</p>
+
+Replace **YOUR_USERNAME** with your Buy Me a Coffee username after creating an account.
+
+---
+
+# 🎵 Now Playing
+
+<p align="center">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212"/>
+</p>
+
+Replace **YOUR_SPOTIFY_ID** with your Spotify User ID.
+
+---
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aasz253&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aasz253&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aasz253&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasz253&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
