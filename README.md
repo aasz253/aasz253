@@ -176,7 +176,7 @@ Sunday      ███░░░░░░░░░░░░░░░░
 <img src="https://raw.githubusercontent.com/aasz253/aasz253/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
-> **Note:** This requires a GitHub Action to generate the snake automatically.
+
 
 ---
 
@@ -216,7 +216,6 @@ If you've found my projects helpful or would like to support my journey as a dev
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212"/>
 </p>
 
-Replace **YOUR_SPOTIFY_ID** with your Spotify User ID.
 
 ---
 <p align="center">
