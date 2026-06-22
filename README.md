@@ -188,18 +188,25 @@ Sunday      ███░░░░░░░░░░░░░░░░
 
 ---
 
-# ☕ Support My Work
+
+
+<## ☕ Support My Work
+
+I’m passionate about building open-source software, AI-powered applications, and secure digital solutions that make a real impact.
+
+If you've found my projects helpful or would like to support my journey as a developer, you can buy me a coffee. Every contribution helps me continue learning, building, and sharing innovative projects with the community.
 
 <p align="center">
-
-<a href="https://buymeacoffee.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
-
-</a>
-
+  <a href="https://buymeacoffee.com/aasz253" target="_blank">
+    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me A Coffee">
+  </a>
 </p>
 
-Replace **YOUR_USERNAME** with your Buy Me a Coffee username after creating an account.
+<p align="center">
+  <b>❤️ Your support fuels my passion for creating AI, cybersecurity, and full-stack solutions that benefit everyone.</b>
+</p>
+
+
 
 ---
 
