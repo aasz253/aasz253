@@ -164,15 +164,10 @@ me = AntonySifuna()
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aasz253&theme=redical&bg_color=0D1117&color=0A84FF&line=0A84FF&point=FFFFFF&hide_border=true" width="100%"/>
 
 ---
-
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aasz253/aasz253/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aasz253/aasz253/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aasz253/aasz253/output/github-contribution-grid-snake.svg">
-</picture>
-
+![Snake animation](https://raw.githubusercontent.com/aasz253/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/aasz253/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ---
 
 ## 🚀 Featured Projects
