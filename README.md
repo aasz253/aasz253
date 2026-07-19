@@ -55,7 +55,7 @@ class AntonySifuna:
         return "Build AI-powered solutions that make technology smarter and more secure."
 
 me = AntonySifuna()
-`` `
+```
 
 ## 🚀 What I Do
 
