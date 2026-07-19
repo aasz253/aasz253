@@ -1,6 +1,6 @@
 <div align="center">
   
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0A84FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Antony+Sifuna;Software+Engineer;AI+Engineer;Cybersecurity+Researcher;Full-Stack+Developer;Building+Secure+Intelligent+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0A84FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Antony+Sifuna;Software+Engineer;AI+Engineer;Cybersecurity+Researcher;Full-Stack+Developer;Building+Secure+Intelligent+Solutions" alt="Anthony Sifuna" />
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 
