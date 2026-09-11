@@ -189,8 +189,8 @@ As AI moves into production, security must extend beyond traditional application
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/aasz253/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
-<img src="https://raw.githubusercontent.com/aasz253/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
+<img src="https://raw.githubusercontent.com/aasz253/aasz253/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
+<img src="https://raw.githubusercontent.com/aasz253/aasz253/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
 
 ---
 
