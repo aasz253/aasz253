@@ -181,9 +181,9 @@ As AI moves into production, security must extend beyond traditional application
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Profile 3D Contribution
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aasz253&theme=redical&bg_color=0D1117&color=0A84FF&line=0A84FF&point=FFFFFF&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/aasz253/aasz253/main/profile-3d-contrib/profile-season-animate.svg" width="100%"/> 
 
 ---
 
