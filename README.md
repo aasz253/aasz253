@@ -11,7 +11,7 @@
 </div>
 
 ---
-[![GitLevel](https://gitlevel.vercel.app/api/card?username=aasz253&theme=matrix)](https://gitlevel.vercel.app/u/aasz253)
+[![GitLevel](https://gitlevel.vercel.app/api/card?username=aasz253&exclude_langs=JavaScript,TypeScript,HTML,Dart,CSS,Jupyter%20Notebook)](https://gitlevel.vercel.app/u/aasz253)
 
 ```python
 class SifunaCodex:
