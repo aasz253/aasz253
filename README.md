@@ -1,262 +1,140 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0A84FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Antony+Sifuna;AI+DevSecOps+Engineer;Founder+@+SifunaCodex;Building+Secure+AI+Systems;Automating+Everything;Securing+by+Design" alt="Antony Sifuna" />
+<img src="assets/banner.svg" alt="SifunaCodex — Antony Sifuna, AI DevSecOps Engineer" width="100%" />
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=FF2E2E&center=true&vCenter=true&width=820&lines=AI+DevSecOps+Engineer;LLM+Applications+%7C+RAG;Secure+Software+Delivery;Kubernetes+%7C+CI%2FCD+%7C+Cloud" alt="Roles" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=aasz253&label=Profile%20Views&color=0A84FF&style=flat)](https://github.com/aasz253)
-[![GitHub followers](https://img.shields.io/github/followers/aasz253?label=Followers&style=social)](https://github.com/aasz253)
-[![GitHub Stars](https://img.shields.io/github/stars/aasz253?affiliations=OWNER&style=social)](https://github.com/aasz253)
+<a href="https://sifunacodex.top"><img src="https://img.shields.io/badge/Website-sifunacodex.top-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://github.com/aasz253"><img src="https://img.shields.io/badge/GitHub-aasz253-FF2E2E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/sifuna-codex-3238203b4"><img src="https://img.shields.io/badge/LinkedIn-sifuna--codex--3238203b4-0A84FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:antonysifuna07@gmail.com"><img src="https://img.shields.io/badge/Email-antonysifuna07%40gmail.com-FF2E2E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://wa.me/254723915661"><img src="https://img.shields.io/badge/WhatsApp-+254%20723%20915661-39D353?style=for-the-badge&logo=whatsapp&logoColor=black" alt="WhatsApp" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=aasz253&label=Profile+Views&color=FF2E2E&style=flat" alt="Profile views" />
 
 </div>
 
 ---
-[![GitLevel](https://gitlevel.vercel.app/api/card?username=aasz253&exclude_langs=JavaScript,TypeScript,HTML,Dart,CSS,Jupyter%20Notebook)](https://gitlevel.vercel.app/u/aasz253)
 
-```python
-class SifunaCodex:
+## About
 
-    def __init__(self):
-        self.name = "Antony Sifuna"
-        self.alias = "SifunaCodex"
-        self.role = "AI DevSecOps Engineer"
-        self.location = "Kenya 🇰🇪"
-        self.company = "SifunaCodex"
+I'm **Antony Sifuna** — **SifunaCodex**. I build AI-driven systems and the engineering platform around them: LLM applications and RAG pipelines, secure APIs, and the CI/CD and security automation that ship them safely.
 
-        self.specialization = [
-            "AI Engineering",
-            "DevSecOps",
-            "Cloud-Native Infrastructure",
-            "Application Security"
-        ]
+My work spans **AI engineering**, **software engineering**, **application security** and **cloud-native infrastructure** — Python/FastAPI backends, React/Next.js frontends, Docker and GitHub Actions pipelines with security scanning built in. I focus on practical, production-oriented systems: software that is deployed, monitored, and defensible, not just demos.
 
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "TypeScript",
-            "Java",
-            "C++"
-        ]
+- Building LLM applications — RAG assistants, agents, grounded generation with source citations
+- Integrating security into delivery — SAST, dependency scanning, container hardening, least-privilege access
+- Shipping in the open — public repositories at [github.com/aasz253](https://github.com/aasz253)
 
-        self.currently_learning = [
-            "LLMOps",
-            "AI Security",
-            "Kubernetes",
-            "Cloud Infrastructure",
-            "Production Systems"
-        ]
+## Engineering Specializations
 
-        self.interests = [
-            "LLM Applications",
-            "RAG Systems",
-            "Secure AI",
-            "CI/CD Automation",
-            "Open Source",
-            "Linux"
-        ]
+| Domain | Focus |
+| :-- | :-- |
+| **AI Engineering** | Python · LLM Applications · RAG · LangChain · AI Agents · OpenAI APIs · Hugging Face · Vector Databases · Prompt Engineering · AI Application Security |
+| **Software Engineering** | Python · JavaScript · TypeScript · Java · C++ · React · Next.js · Node.js · FastAPI · Django · REST APIs |
+| **DevSecOps** | Docker · Kubernetes · GitHub Actions · CI/CD · Terraform · Linux · Automated Testing · Security Scanning · Deployment Automation |
+| **Cybersecurity** | OWASP · Application Security · SAST · Dependency Security · Vulnerability Assessment · Secure Authentication · API Security · AI Security |
+| **Cloud & Infrastructure** | AWS · Linux · Nginx · Containerization · Cloud Infrastructure · Infrastructure Automation |
+| **Databases** | PostgreSQL · MongoDB · MySQL · Redis |
 
-    def mission(self):
-        return "Build intelligent, secure, and scalable systems that solve real problems."
-
-me = SifunaCodex()
-```
-
----
-
-## 🚀 What I Do
-
-- 🤖 **Build AI-powered applications** — LLMs, RAG, and intelligent automation
-- 🛡️ **Secure software** — AI security, DevSecOps, and application security
-- ⚙️ **Automate delivery** — CI/CD pipelines, containerization, and cloud deployment
-- ☸️ **Orchestrate infrastructure** — Docker, Kubernetes, cloud-native systems
-- 🐧 **Daily Linux user** — Kali, Ubuntu, and everything in between
-- 📚 **Share knowledge** — Through GitHub, technical content, and open source
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 AI / LLM
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%2523FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%2523EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-### 💻 Software Engineering
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%2523323330.svg?style=for-the-badge&logo=javascript&logoColor=%2523F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%2523007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%2523ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%252300599C.svg?style=for-the-badge&logo=c%252B%252B&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/react-%252320232a.svg?style=for-the-badge&logo=react&logoColor=%252361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%252335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%25234FC08D)
-![Angular](https://img.shields.io/badge/angular-%2523DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%252338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%2523404d59.svg?style=for-the-badge&logo=express&logoColor=%252361DAFB)
-![Django](https://img.shields.io/badge/django-%2523092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%2523000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring](https://img.shields.io/badge/spring-%25236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/postgres-%2523316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%25234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%2523DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### ☁️ Cloud & DevSecOps
-![AWS](https://img.shields.io/badge/AWS-%2523FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%25234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%25230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%2523326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%2520actions-%25232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%25235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%2523009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🛡️ Security
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%2520Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🔐 DevSecOps Philosophy
-
-Security should never be an afterthought. I integrate security at every stage:
-
-```
-PLAN → CODE → TEST → SAST → DEPENDENCY SCAN → BUILD → CONTAINER SECURITY → DEPLOY → MONITOR
-```
-
-**Goal:** Integrate security without sacrificing development velocity.
-
----
-
-## 🤖 AI Security Focus
-
-As AI moves into production, security must extend beyond traditional application security:
-
-- 🛡️ Prompt injection prevention
-- 🔒 Data leakage protection
-- 🏗️ Secure RAG architectures
-- 🔑 Model/API security
-- 🧪 Input/output validation
-- 🔐 AI application authentication
-- 🧠 LLM application threat modeling
-- ☁️ Secure model deployment
-- 📦 AI supply-chain security
-
----
-
-## 📊 GitHub Stats
+These are the stacks I work with in shipped projects — see the repositories below for proof of work.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aasz253&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=0A84FF&icon_color=0A84FF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasz253&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=0A84FF" height="165" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasz253&theme=radical&hide_border=false&background=0D1117&stroke=0A84FF&ring=0A84FF&fire=0A84FF&currStreakLabel=0A84FF" width="70%" />
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,django,docker,kubernetes,aws,terraform,linux,nginx,postgres,mongodb,redis,githubactions&theme=dark&perline=12" alt="Technology icons" />
+
 </div>
 
----
+## Featured Projects
 
-## 🏆 GitHub Trophies
+| Project | What it does | Stack | Live |
+| :-- | :-- | :-- | :-- |
+| [**AI Knowledge Assistant**](https://github.com/aasz253/AI-Knowledge-Assistant) | Production-grade RAG assistant — grounded answers from private documents with source citations, prompt-injection defense, streaming, 35 tests, CI with Ruff/Bandit/pip-audit/Trivy | Python · FastAPI · FAISS · OpenAI · React | [Demo](https://ai-knowledge-assistant-puce.vercel.app/) |
+| [**ZeroTrust Hub**](https://github.com/aasz253/ZeroTrust-Hub-) | AI-powered SOC dashboard — threat monitoring, vulnerability scanning, malware analysis, JWT auth, real-time WebSocket updates | FastAPI · React 19 · TypeScript · PostgreSQL · Redis · Celery | [Demo](https://zerotrust-hub.vercel.app) |
+| [**ReminderBot Pro**](https://github.com/aasz253/ReminderBot-Pro) | Smart reminder SaaS — email/SMS/push notifications, natural-language scheduling, Stripe billing, Terraform-managed infra | Python · FastAPI · Next.js · PostgreSQL · Stripe · Terraform | — |
+| [**Sentinel IDS**](https://github.com/aasz253/CodeAlpha_Sentinel-IDS) | Web-based network intrusion detection on top of Snort — real-time alert parsing, classification, email/Telegram notifications | Python · Flask · Snort · SQLite · Chart.js | — |
+| [**CYBERSTRIKE: The African Hacker**](https://github.com/aasz253/cyberstrile) | Interactive cybersecurity training game — 15 missions across 5 chapters: phishing analysis, SIEM, incident response, network defense | TypeScript · HTML/CSS | [Demo](https://cyberstrike-lyart.vercel.app) |
+| [**SifunaCloud File API**](https://github.com/aasz253/SifunaCloud-File-API) | Secure file-upload service on AWS EC2 (Ubuntu) streaming to S3 with an IAM role — cloud file ingestion without long-lived credentials | Python · FastAPI · AWS EC2 · S3 · IAM | — |
+
+More work on my [repositories page](https://github.com/aasz253?tab=repositories).
+
+## Engineering Philosophy
+
+Security is integrated throughout the lifecycle — not bolted on at the end:
+
+```text
+PLAN → DEVELOP → TEST → SCAN → SECURE → BUILD → DEPLOY → MONITOR
+```
+
+- **Shift left** — security requirements and threat modeling at design time
+- **Automate enforcement** — SAST, dependency and container scanning in CI, failing builds on critical findings
+- **Least privilege** — scoped IAM roles, short-lived tokens, no secrets in code
+- **Verify in production** — monitoring, alerting and feedback into the next cycle
+
+### AI Security
+
+| Layer | Practice |
+| :-- | :-- |
+| **Prompt injection** | Untrusted content (documents, user input) is data, never instructions |
+| **Secure RAG** | Retrieval grounding, output constraints, source citations, refusal when unsupported |
+| **Data leakage** | Access-scoped retrieval, output validation and redaction before display |
+| **API authentication** | JWT/OAuth2, scoped tokens, rate limiting, audit logging |
+| **Model security** | Vetted model sources, pinned dependencies, scanned images |
+| **Supply chain** | Dependency pinning, automated vulnerability scanning in CI |
+| **Input/output validation** | Schema validation at every boundary — requests and responses |
+
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aasz253&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2" />
+
+<img src="https://img.shields.io/github/public-repos/aasz253?style=for-the-badge&color=FF2E2E&label=Repos&logo=github&labelColor=000000" alt="Public repositories" />
+<img src="https://img.shields.io/github/followers/aasz253?style=for-the-badge&color=0A84FF&label=Followers&logo=github&labelColor=000000" alt="Followers" />
+<img src="https://img.shields.io/github/created-at/aasz253?style=for-the-badge&color=39D353&label=Building%20since&logo=github&labelColor=000000" alt="Building since" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=aasz253&theme=dark&hide_border=true&background=00000000&ring=FF2E2E&fire=0A84FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=FF2E2E&sideLabels=E6EDF3&dates=8B949E" alt="Contribution streak" />
+
 </div>
 
----
+### 3D Contribution Graph
 
-## 📈 Profile 3D Contribution
+<div align="center">
+<img src="https://raw.githubusercontent.com/aasz253/aasz253/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D contribution graph" />
+</div>
 
-<img src="https://raw.githubusercontent.com/aasz253/aasz253/main/profile-3d-contrib/profile-season-animate.svg" width="100%"/> 
+### Contribution Snake
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aasz253/aasz253/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/aasz253/aasz253/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation" />
+</picture>
 
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/aasz253/aasz253/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
-<img src="https://raw.githubusercontent.com/aasz253/aasz253/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
-
----
-
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Build impactful open-source AI & DevSecOps projects
-- 🛡️ Master AI security & LLM threat modeling
-- 🤖 Deploy production-ready RAG applications
-- ☸️ Achieve Kubernetes & cloud-native proficiency
-- 🌍 Contribute to the cybersecurity community
-- 💼 Secure an AI/DevSecOps Engineering role
-- 🏗️ Build personal cloud infrastructure
-
----
-
-## 📚 Currently Learning
-
-```
-AI Engineering → LLMOps → AI Security → DevSecOps → Kubernetes → Cloud Infrastructure → Production Systems
-```
-
----
-
-## 🎓 Education
+## Education
 
 **Masinde Muliro University of Science and Technology (MMUST)**
-Bachelor's Degree in Computer Science & Software Engineering
-*Currently: Third Year*
+B.Sc. Computer Science — 2024–2027 (in progress)
 
----
+## Current Focus
 
-## 🌐 Connect With Me
+- **AI Engineering & LLM applications** — RAG systems, agents, evaluations
+- **LLMOps & AI Security** — prompt-injection defense, secure deployment
+- **Production-grade RAG** — grounded, cited, tested
+- **Kubernetes & cloud-native infrastructure**
+- **DevSecOps automation** — CI/CD with integrated security scanning
+- **Open-source engineering** — building and sharing in public
 
-<div align="center">
+## Connect & Collaborate
 
-[![GitHub](https://img.shields.io/badge/GitHub-aasz253-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aasz253)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sifuna_Codex-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sifuna_Codex)
-[![Twitter](https://img.shields.io/badge/Twitter-@sifunacodex-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sifunacodex)
-[![YouTube](https://img.shields.io/badge/YouTube-SifunaCodex-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SifunaCodex)
-[![Instagram](https://img.shields.io/badge/Instagram-@sifunacodex-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sifunacodex)
-[![Reddit](https://img.shields.io/badge/Reddit-u/sifunacodex-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/sifunacodex)
-[![Email](https://img.shields.io/badge/Email-antonysifuna07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonysifuna07@gmail.com)
-
-</div>
-
----
-
-## 📩 Work With Me
-
-Have a software, AI, automation, or security problem? Let's build it.
-
-- 📧 Email: antonysifuna07@gmail.com
-- 📱 WhatsApp / Call: 0723915661
-
----
-
-## ☕ Support Me
+Open to **AI engineering**, **DevSecOps** and **software engineering** opportunities — including remote and international roles — plus collaborations, open-source projects and technical consulting.
 
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%2520Me%2520a%2520Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sifunacodex)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sifunacodex)
+[![Website](https://img.shields.io/badge/Website-sifunacodex.top-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sifunacodex.top)
+[![GitHub](https://img.shields.io/badge/GitHub-aasz253-FF2E2E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aasz253)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sifuna--codex--3238203b4-0A84FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sifuna-codex-3238203b4)
+[![Email](https://img.shields.io/badge/Email-antonysifuna07%40gmail.com-FF2E2E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonysifuna07@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+254%20723%20915661-39D353?style=for-the-badge&logo=whatsapp&logoColor=black)](https://wa.me/254723915661)
 
 </div>
 
@@ -264,11 +142,8 @@ Have a software, AI, automation, or security problem? Let's build it.
 
 <div align="center">
 
-> *"Build intelligent systems. Secure software. Automate delivery. Ship real systems."*
+*Building intelligent systems. Securing software. Automating delivery.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=100&section=footer"/>
-
-**SIFUNA CODEX**
-AI · DEVSECOPS · SECURITY · SOFTWARE ENGINEERING
+**SIFUNACODEX**
 
 </div>

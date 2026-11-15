@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="SifunaCodex — Antony Sifuna, AI DevSecOps Engineer">
+  <defs>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#141414"/>
+    </pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF2E2E"/>
+      <stop offset="0.5" stop-color="#FF2E2E"/>
+      <stop offset="0.5" stop-color="#0A84FF"/>
+      <stop offset="1" stop-color="#0A84FF"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="360" fill="#000000"/>
+  <rect width="1280" height="360" fill="url(#dots)"/>
+  <rect x="0" y="0" width="10" height="360" fill="#FF2E2E"/>
+  <rect x="0" y="354" width="1280" height="6" fill="url(#accent)"/>
+
+  <text x="72" y="74" font-family="'Courier New', Courier, monospace" font-size="15" letter-spacing="6" fill="#8B949E">A N T O N Y   S I F U N A</text>
+
+  <text x="68" y="182" font-family="Helvetica, Arial, sans-serif" font-weight="800" font-size="92" letter-spacing="10" fill="#FFFFFF">SIFUNACODEX</text>
+
+  <text x="72" y="232" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#E6EDF3">Building intelligent systems. <tspan fill="#FF2E2E" font-weight="700">Securing software.</tspan> <tspan fill="#0A84FF" font-weight="700">Automating delivery.</tspan></text>
+
+  <text x="72" y="300" font-family="'Courier New', Courier, monospace" font-size="16" fill="#39D353"><tspan fill="#8B949E">$ </tspan>whoami</text>
+  <text x="72" y="326" font-family="'Courier New', Courier, monospace" font-size="15" fill="#C9D1D9">AI DevSecOps Engineer <tspan fill="#FF2E2E">—</tspan> Kenya</text>
+
+  <g transform="translate(1012 96)">
+    <rect x="0" y="0" width="196" height="158" rx="14" fill="#0D0D0D" stroke="#FF2E2E" stroke-width="2"/>
+    <circle cx="24" cy="22" r="5" fill="#FF2E2E"/>
+    <circle cx="42" cy="22" r="5" fill="#0A84FF"/>
+    <circle cx="60" cy="22" r="5" fill="#39D353"/>
+    <line x1="0" y1="36" x2="196" y2="36" stroke="#1F1F1F" stroke-width="2"/>
+    <text x="98" y="112" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-weight="700" font-size="58" fill="#39D353">&gt;_</text>
+  </g>
+</svg>
